@@ -1,0 +1,12 @@
+1
+2
+book
+20
+food
+5
+2
+laptop
+700
+laptop
+700
+3

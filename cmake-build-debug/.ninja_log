@@ -1,0 +1,8 @@
+# ninja log v5
+3	495	7044175607470668	CMakeFiles/poo2final.dir/main.cpp.obj	bea7cbbf0a0e9c97
+19	485	7044174852995998	CMakeFiles/poo2final.dir/client_without_card.cpp.obj	9bcd42cf8c780ecf
+15	486	7044174853026642	CMakeFiles/poo2final.dir/product.cpp.obj	8a4c7c6db87500b1
+12	502	7044174853222457	CMakeFiles/poo2final.dir/client_card.cpp.obj	ffaaef0649027989
+8	487	7044174853005997	CMakeFiles/poo2final.dir/client.cpp.obj	d3c963d5c2b69990
+25	633	7044174854543291	CMakeFiles/poo2final.dir/REWARD_PROGRAM.cpp.obj	3ab0385a104aecd8
+495	595	7044175608444058	poo2final.exe	4f7944d04bdcddf0
